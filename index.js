@@ -1,5 +1,6 @@
 const fs = require('fs')
 
+
 // Blocking, synchronous way
 // let hello = 'hello world';
 // console.log(hello)
